@@ -1,2 +1,2 @@
-s our meeting notes
-first pull then pull
+ our meeting notes
+first git  pull then git push
