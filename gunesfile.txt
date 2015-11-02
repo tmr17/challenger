@@ -4,3 +4,9 @@ Now ransom is editing!
 Hi Tyler!
 
 Thank you for creating this repository.
+
+
+Check out the following link:
+
+
+http://gitimmersion.com/
